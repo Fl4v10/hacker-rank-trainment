@@ -16,6 +16,8 @@ namespace DevTrainment
             }
             int result = DiagonalDifference.diagonalDifference(a);
             Console.WriteLine(result);
+
+            Console.ReadKey();
         }
 
         static void Main1(string[] args)
