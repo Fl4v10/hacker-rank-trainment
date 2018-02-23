@@ -1,0 +1,13 @@
+C:\Users\PAULO\source\repos\HackerrankTrain\DevTrainment\bin\Debug\netcoreapp2.0\DevTrainment.deps.json
+C:\Users\PAULO\source\repos\HackerrankTrain\DevTrainment\bin\Debug\netcoreapp2.0\DevTrainment.runtimeconfig.json
+C:\Users\PAULO\source\repos\HackerrankTrain\DevTrainment\bin\Debug\netcoreapp2.0\DevTrainment.runtimeconfig.dev.json
+C:\Users\PAULO\source\repos\HackerrankTrain\DevTrainment\bin\Debug\netcoreapp2.0\DevTrainment.dll
+C:\Users\PAULO\source\repos\HackerrankTrain\DevTrainment\bin\Debug\netcoreapp2.0\DevTrainment.pdb
+C:\Users\PAULO\source\repos\HackerrankTrain\DevTrainment\bin\Debug\netcoreapp2.0\Libs.dll
+C:\Users\PAULO\source\repos\HackerrankTrain\DevTrainment\bin\Debug\netcoreapp2.0\Libs.pdb
+C:\Users\PAULO\source\repos\HackerrankTrain\DevTrainment\obj\Debug\netcoreapp2.0\DevTrainment.csprojResolveAssemblyReference.cache
+C:\Users\PAULO\source\repos\HackerrankTrain\DevTrainment\obj\Debug\netcoreapp2.0\DevTrainment.csproj.CoreCompileInputs.cache
+C:\Users\PAULO\source\repos\HackerrankTrain\DevTrainment\obj\Debug\netcoreapp2.0\DevTrainment.AssemblyInfoInputs.cache
+C:\Users\PAULO\source\repos\HackerrankTrain\DevTrainment\obj\Debug\netcoreapp2.0\DevTrainment.AssemblyInfo.cs
+C:\Users\PAULO\source\repos\HackerrankTrain\DevTrainment\obj\Debug\netcoreapp2.0\DevTrainment.dll
+C:\Users\PAULO\source\repos\HackerrankTrain\DevTrainment\obj\Debug\netcoreapp2.0\DevTrainment.pdb

@@ -1,0 +1,9 @@
+C:\Users\PAULO\source\repos\HackerrankTrain\Libs\bin\Debug\netstandard2.0\Libs.deps.json
+C:\Users\PAULO\source\repos\HackerrankTrain\Libs\bin\Debug\netstandard2.0\Libs.dll
+C:\Users\PAULO\source\repos\HackerrankTrain\Libs\bin\Debug\netstandard2.0\Libs.pdb
+C:\Users\PAULO\source\repos\HackerrankTrain\Libs\obj\Debug\netstandard2.0\Libs.csprojResolveAssemblyReference.cache
+C:\Users\PAULO\source\repos\HackerrankTrain\Libs\obj\Debug\netstandard2.0\Libs.csproj.CoreCompileInputs.cache
+C:\Users\PAULO\source\repos\HackerrankTrain\Libs\obj\Debug\netstandard2.0\Libs.AssemblyInfoInputs.cache
+C:\Users\PAULO\source\repos\HackerrankTrain\Libs\obj\Debug\netstandard2.0\Libs.AssemblyInfo.cs
+C:\Users\PAULO\source\repos\HackerrankTrain\Libs\obj\Debug\netstandard2.0\Libs.dll
+C:\Users\PAULO\source\repos\HackerrankTrain\Libs\obj\Debug\netstandard2.0\Libs.pdb
