@@ -28,7 +28,7 @@ namespace DevTrainment
         //    int b0 = Convert.ToInt32(tokens_b0[0]);
         //    int b1 = Convert.ToInt32(tokens_b0[1]);
         //    int b2 = Convert.ToInt32(tokens_b0[2]);
-        //    int[] result = CompareTheTriplets.Solve(a0, a1, a2, b0, b1, b2);
+        //    int[] result = CompareTheTriplets.solve(a0, a1, a2, b0, b1, b2);
         //    Console.WriteLine(String.Join(" ", result));
 
         //    Console.ReadKey();
@@ -64,10 +64,18 @@ namespace DevTrainment
         //    Console.ReadKey();
         //}
         #endregion
+        #region Staircase
+        //static void Main(String[] args)
+        //{
+        //    int n = Convert.ToInt32(Console.ReadLine());
+        //    Staircase.staircase(n);
 
-        static void Mainn(String[] args)
-        {
+        //    Console.ReadKey();
+        //}
+        #endregion
+        //static void Main(String[] args)
+        //{
 
-        }
+        //}
     }
 }

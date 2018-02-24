@@ -2,33 +2,33 @@
 {
     public class CompareTheTriplets
     {
-        public static int[] Solve(int a0, int a1, int a2, int b0, int b1, int b2)
+        public static int[] solve(int a0, int a1, int a2, int b0, int b1, int b2)
         {
             int[] aux = new int[2];
 
-            if (Comparison(a0, b0) == "Alice")
+            if (Comparison(a0, b0))
             {
                 aux[0] = 1;
             }
-            else if(Comparison(a2, b2) == "Bob")
+            else
             {
                 aux[1] = 1;
             }
 
-            if (Comparison(a1, b1) == "Alice")
+            if (Comparison(a1, b1))
             {
                 aux[0] += 1;
             }
-            else if (Comparison(a2, b2) == "Bob")
+            else
             {
                 aux[1] += 1;
             }
 
-            if (Comparison(a2, b2) == "Alice")
+            if (Comparison(a2, b2))
             {
                 aux[0] += 1;
             }
-            else if (Comparison(a2, b2) == "Bob")
+            else if (Comparison(a2, b2))
             {
                 aux[1] += 1;
             }
@@ -36,15 +36,15 @@
             return aux;
         }
 
-        private static string Comparison(int a, int b)
+        private static bool Comparison(int a, int b)
         {
-            string winner = string.Empty;
+            bool winner = false;
 
             if (a > b)
-                winner = "Alice";
+                winner = true;
 
             if (a < b)
-                winner = "Bob";
+                winner = false;
 
             return winner;
         }
