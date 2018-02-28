@@ -73,9 +73,40 @@ namespace DevTrainment
         //    Console.ReadKey();
         //}
         #endregion
+        #region Mini-MaxSum
         //static void Main(String[] args)
         //{
+        //    string exit = string.Empty;
+        //    exit = string.Empty;
 
+        //    string[] arr_temp = Console.ReadLine().Split(' ');
+        //    int[] arr = Array.ConvertAll(arr_temp, Int32.Parse);
+        //    Mini_MaxSum.miniMaxSum(arr);
+
+        //    exit = Console.ReadLine();
         //}
+        #endregion
+        #region BirthdayCakeCandles
+        //static void Main(String[] args)
+        //{
+        //    int n = Convert.ToInt32(Console.ReadLine());
+        //    string[] ar_temp = Console.ReadLine().Split(' ');
+        //    int[] ar = Array.ConvertAll(ar_temp, Int32.Parse);
+        //    int result = BirthdayCakeCandles.birthdayCakeCandles(n, ar);
+        //    Console.WriteLine(result);
+
+        //    Console.ReadLine();
+        //}
+        #endregion
+        #region TimeConversion
+        static void Main(String[] args)
+        {
+            string s = Console.ReadLine();
+            string result = TimeConversion.timeConversion(s);
+            Console.WriteLine(result);
+
+            Console.ReadKey();
+        }
+        #endregion
     }
 }
